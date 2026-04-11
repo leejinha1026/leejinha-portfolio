@@ -6,7 +6,7 @@
 Python, R, SAS, SPSS | ARIMA, SARIMA, SARIMAX | CNN | Matplotlib
 
 ## Projects
-- **필루미네이트 매출 예측** : SARIMAX 기반 일별 매출 예측 (RMSE 약 70만원)
+- **필루미네이트 매출 예측** : SARIMAX 기반 일별 매출 예측
 - **독감 환자 수 예측** : SARIMA 기반 2027년 환자 수 예측, 공모전 장려상 수상
 - **패션 유사 추천 시스템** : CNN 이미지 임베딩 기반 상품 추천
 - **I2V 산업 분석** : 주요 3개 기업 PEST·SWOT 분석
