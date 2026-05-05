@@ -1,6 +1,6 @@
 # 이진하 | 데이터 분석가 포트폴리오
 
-시계열 분석으로 미래를 보는 데이터 분석가입니다.
+성과를 내는 신입 데이터 분석가입니다.
 
 ## Skills
 Python, R, SAS, SPSS | ARIMA, SARIMA, SARIMAX | CNN | Matplotlib
